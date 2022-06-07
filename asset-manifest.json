@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-test-build/static/css/main.5700d1a2.css",
+    "main.js": "/react-test-build/static/js/main.f14ef4bc.js",
+    "static/js/787.adef61cf.chunk.js": "/react-test-build/static/js/787.adef61cf.chunk.js",
+    "static/media/불편한편의점.jpg": "/react-test-build/static/media/불편한편의점.22141ff96267b445c07a.jpg",
+    "index.html": "/react-test-build/index.html",
+    "main.5700d1a2.css.map": "/react-test-build/static/css/main.5700d1a2.css.map",
+    "main.f14ef4bc.js.map": "/react-test-build/static/js/main.f14ef4bc.js.map",
+    "787.adef61cf.chunk.js.map": "/react-test-build/static/js/787.adef61cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5700d1a2.css",
+    "static/js/main.f14ef4bc.js"
+  ]
+}
